@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuristonks&show_icons=true&locale=en" alt="yuristonks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuristonks&" alt="yuristonks" /></p>
-<img align="reight alt="Boneco-png"  height="100" width="400"src="https://img.freepik.com/vetores-premium/jovem-negro-trabalhando-no-laptop-freelance-trabalho-remoto-estudo-on-line-conceito-de-trabalho-em-casa-ilustracao-em-vetor-estilo-simples_285336-2615.jpg?w=2000">
