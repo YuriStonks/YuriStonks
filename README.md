@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuristonks&label=Profile%20views&color=0e75b6&style=flat" alt="yuristonks" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🧠 Desenvolvedor Front-end
 
-- 💬 Ask me about **Android, Web**
+- 💬 Atualmente estudando Javascript e me aprofundando nos frameworks
 
-- 📫 How to reach me **yuridubi14@gmail.com**
+- 📫 Email:Yuridubi14@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
