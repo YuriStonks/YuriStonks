@@ -1,7 +1,7 @@
 <h1 align="center"> Opa tudo bem? 👋, Eu sou O Yuri</h1>
 <h3 align="center">Um desenvolvedor front-end apaixonado do Brasil</h3>
 <img align="right" alt="Coding" width="2000" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
-<img align="reight alt="Boneco-png"  height="100" width="400"src="https://img.freepik.com/vetores-premium/jovem-negro-trabalhando-no-laptop-freelance-trabalho-remoto-estudo-on-line-conceito-de-trabalho-em-casa-ilustracao-em-vetor-estilo-simples_285336-2615.jpg?w=2000">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuristonks&label=Profile%20views&color=0e75b6&style=flat" alt="yuristonks" /> </p>
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuristonks&show_icons=true&locale=en" alt="yuristonks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuristonks&" alt="yuristonks" /></p>
+<img align="reight alt="Boneco-png"  height="100" width="400"src="https://img.freepik.com/vetores-premium/jovem-negro-trabalhando-no-laptop-freelance-trabalho-remoto-estudo-on-line-conceito-de-trabalho-em-casa-ilustracao-em-vetor-estilo-simples_285336-2615.jpg?w=2000">
