@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuri Silva dos Santos</h1>
+<h1 align="center"> Opa tudo bem? 👋, Eu sou O Yuri</h1>
 <h3 align="center">Um desenvolvedor front-end apaixonado do Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="//instagram.com/https://www.instagram.com/dub.bugs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dub.bugs/" height="30" width="40" /></a>
-<a href="www.behance.net/https://www.behance.net/yurisilva55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/yurisilva55" height="30" width="40" /></a>
-<a href="//www.youtube.com/c/https://www.youtube.com/channel/ucsrkuogt3v7nud1xcejbllq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsrkuogt3v7nud1xcejbllq" height="30" width="40" /></a>
+<a href="https:instagram.com/dub.bugs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dub.bugs/" height="30" width="40" /></a>
+<a href="www.behance.net/yurisilva55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/yurisilva55" height="30" width="40" /></a>
+<a href="www.youtube.com/channel/UCsRkUOGT3v7NUD1xcejbLlQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsrkuogt3v7nud1xcejbllq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuristonks&show_icons=true&locale=en" alt="yuristonks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuristonks&" alt="yuristonks" /></p>
-
